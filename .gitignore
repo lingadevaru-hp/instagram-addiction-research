@@ -1,0 +1,13 @@
+# large/copyrighted binaries stay local-only (see README "What Is NOT in This Repo")
+artifacts/
+*.xapk
+*.apk
+*.dex
+*.jar
+*.so
+*.webp
+
+# no machine/secret files
+.DS_Store
+*.keystore
+*.jks
